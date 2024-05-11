@@ -532,4 +532,13 @@ export const directories: Directory[] = [
         "submission_experience": "",
         "pricing": ""
     },
+    {
+        "name": "AI Tools Planet",
+        "link": "https://aitoolsplanet.co/",
+        "submission_link": "https://aitoolsplanet.co/submit",
+        "domain_rating": 9,
+        "monthly_visits": 6000,
+        "submission_experience": "",
+        "pricing": "Free"
+    },
 ]
